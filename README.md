@@ -21,7 +21,7 @@
                 CSS - styling and layout.
                 JavaScript - clien-side interactivity.
                 BooStrap - responsive design and pre-built components.
-- **Backend:** Can be integraed with PHP, OR js.
+- **Backend:** Can be integrated with PHP, or js.
 - **Database:**  MySQL.
 
 
